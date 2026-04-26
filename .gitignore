@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+
+# Local development files
+*.db
+*.sqlite
+*.sqlite3
+*.tmp
+*.jsonl
+*.bz2
+*.xml
+
+# Data directories
+trwiktionary-latest-pages-articles.xml/
+
+# Streamlit config
+.streamlit/
+
+# Keep only these tracked files:
+# - README.md
+# - requirements.txt
+# - sozluk_pro.py
+# - .gitignore
+
